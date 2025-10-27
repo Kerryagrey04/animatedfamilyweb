@@ -12,6 +12,7 @@ body {
     background-color: #f5f5f5;
     color: #333;
     overflow-x:hidden;
+    font-size:4.5rem;
   }
   
   header {
@@ -31,7 +32,7 @@ text-align:center;
 }
 
 h1 {
- font-size:3rem;
+ font-size:5rem;
  margin-bottom:1rem;
 }
 
@@ -111,7 +112,7 @@ nav ul {
   
   .familia h2 {
     text-align: center;
-    font-size: 2rem;
+    font-size: 4rem;
     margin-bottom: 25px;
     color: #2c3e50;
   }
@@ -122,7 +123,7 @@ nav ul {
   }
   
   .familia .picha h3 {
-    font-size: 1.5rem;
+    font-size: 3rem;
     margin-bottom: 10px;
     color: #34495e;
   }
@@ -136,10 +137,10 @@ nav ul {
   }
   
   .familia p {
-    font-size: 1.1rem;
+    font-size: 3rem;
     color: #555;
     line-height: 1.6;
-    max-width: 700px;
+    max-width: 1000px;
     margin: 0 auto;
   }
 
@@ -154,4 +155,5 @@ main{
 }
 
   
+
 
